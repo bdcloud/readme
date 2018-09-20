@@ -1,4 +1,4 @@
-# bdcloud
+# bdcloud（Big Data Cloud）
 
 please visit below web site to get installation package: </br>
 https://pan.baidu.com/s/12Z2QDFQtnGoHK36EsoQPHw  password:5ob3 </br>
